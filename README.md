@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=titan3755&show_icons=true&locale=en&layout=compact" alt="titan3755" /></p>
 
-[![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755)](https://github.com/anuraghazra/github-readme-stats)
+[![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
