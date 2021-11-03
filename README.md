@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmud Al Muhaimin // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on **Chat Application // WhatsApp Clone with SocketIO**
+- 🔭 I’m currently working on: **Chat Application // WhatsApp Clone with SocketIO**
 
-- 🌱 I’m currently learning **ReactJS, Express, MongoDB**
+- 🌱 I’m currently learning: **ReactJS, Express, MongoDB**
 
-- 📫 How to reach me **info.photobytes@gmail.com**
+- 📫 How to reach me: **info.photobytes@gmail.com**
 
-- ⚡ Fun fact **I am a gamer, hit me up if you wanna play valorant!**
+- ⚡ Fun fact: **I am a gamer, hit me up if you wanna play valorant!**
 
 
 
