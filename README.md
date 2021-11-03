@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mahmud Al Muhaimin // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
+- 🔭 I’m currently working on **Chat Application // WhatsApp Clone with SocketIO**
+
+- 🌱 I’m currently learning **ReactJS, Express, MongoDB**
+
+- 📫 How to reach me **info.photobytes@gmail.com**
+
+- ⚡ Fun fact **I am a gamer, hit me up if you wanna play valorant!**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mahmudalmuhaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudalmuhaimin" height="30" width="40" /></a>
