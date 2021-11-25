@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Al Muhaimin // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **Chat Application // WhatsApp Clone with SocketIO**
+- 🔭 I’m currently working on: **ECommerce application for PhotoBytes Studios**
 
 - 🌱 I’m currently learning: **ReactJS, Express, MongoDB**
 
