@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **ECommerce application for PhotoBytes Studios**
 
-- 🌱 I’m currently learning: **ReactJS, Express, MongoDB**
+- 🌱 I’m currently learning: **ReactJS, NextJS, Express, MongoDB**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
