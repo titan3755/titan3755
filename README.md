@@ -24,9 +24,12 @@
 <h3 align="left">My Stats and Activities</h3>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan3755&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titan3755&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 [![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+[![Titan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=titan3755)](https://github.com/anuraghazra/github-readme-stats)
