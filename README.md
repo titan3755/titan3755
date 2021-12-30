@@ -29,7 +29,3 @@
 <br />
 
 [![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![Titan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=titan3755)](https://github.com/anuraghazra/github-readme-stats)
