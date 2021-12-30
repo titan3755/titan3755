@@ -24,7 +24,7 @@
 <h3 align="left">My Stats and Activities</h3>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan3755&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan3755&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
