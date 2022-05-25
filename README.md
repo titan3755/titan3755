@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmud // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **ECommerce application for [PhotoBytes Studios](https://www.facebook.com/PhotoBytes999)**
+- 🔭 I’m currently working on: **Nothing! (Exams 😢)**
 
-- 🌱 I’m currently learning: **ReactJS, NextJS and Rust**
+- 🌱 I’m currently learning: **ReactJS, NextJS, Rust and Flutter (Stopped for some time until July ...)**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
-
-- ⚡ Fun fact: **I am a gamer, hit me up if you wanna play valorant!**
-
 
 
 <h3 align="left">Connect with me:</h3>
