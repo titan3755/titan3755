@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmud // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **Nothing! (Exams 😢)**
+- 🔭 I’m currently working on: **PhotoBytes Studios Blog**
 
-- 🌱 I’m currently learning: **ReactJS, NextJS, Rust and Flutter (Stopped for some time until July ...)**
+- 🌱 I’m currently learning: **ReactJS, NextJS, Rust and Bevy Game Engine (Stopped for some time until July ...)**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
