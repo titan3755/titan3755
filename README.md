@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **PhotoBytes Studios Blog**
 
-- 🌱 I’m currently learning: **ReactJS, NextJS, Rust and Bevy Game Engine (Stopped for some time until July ...)**
+- 🌱 I’m currently learning: **ReactJS, NextJS, Rust and Bevy Game Engine**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
