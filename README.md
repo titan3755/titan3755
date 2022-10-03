@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **PhotoBytes Studios Blog**
+- 🔭 I’m currently working on: **Budgety - Simple budget management app**
 
 - 🌱 I’m currently learning: **ReactJS, NextJS, Go and Rust!**
 
