@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Aetherius - File encryption CLI**
 
-- 🌱 I’m currently learning: **  Golang **
+- 🌱 I’m currently learning: **Golang**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
