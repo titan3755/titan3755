@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmud // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **Budgety - Simple budget management app**
+- 🔭 I’m currently working on: **Aetherius - File encryption CLI**
 
-- 🌱 I’m currently learning: **ReactJS, NextJS, Go and Rust!**
+- 🌱 I’m currently learning: **  Golang **
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
