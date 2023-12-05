@@ -21,4 +21,4 @@
 <h3 align="left">My Stats and Activities</h3>
 <br>
 <br>
-[![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755)](https://github.com/anuraghazra/github-readme-stats)
+[![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=titan3755)](https://github.com/anuraghazra/github-readme-stats)]
