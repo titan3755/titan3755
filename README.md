@@ -20,4 +20,5 @@
 
 <h3 align="left">My Stats and Activities</h3>
 <br>
+<br>
 ![Titan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
