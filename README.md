@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Network Analyzer [NetZer]** && **PhotoBytes Blog**
 
-- 🌱 I’m currently learning: **Go** && **NextJS**
+- 🌱 I’m currently learning: **Java** && **PHP**
 
 - 📫 How to reach me: **info.photobytes@gmail.com**
 
