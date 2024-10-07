@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahmud // Titan</h1>
+<h1 align="center">Mahmud // Titan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on: **Network Analyzer [NetZer]** && **PhotoBytes Blog**
+-  I’m currently working on: **Network Analyzer [NetZer]** && **PhotoBytes Blog**
 
-- 🌱 I’m currently learning: **Java** && **PHP**
+-  I’m currently learning: **Java** && **PHP**
 
-- 📫 How to reach me: **info.photobytes@gmail.com**
+-  How to reach me: **info.photobytes@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
