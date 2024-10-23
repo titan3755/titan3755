@@ -15,6 +15,8 @@
 <a href="https://discord.gg/https://discord.gg/2JwQ35Gf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2JwQ35Gf" height="30" width="40" /></a>
 </p>
 
+![Titan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=titan3755&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan3755&hide=javascript,css,scss,html&theme=tokyonight&layout=donut&langs_count=10)
 
 
