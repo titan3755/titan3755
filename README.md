@@ -1,5 +1,5 @@
 <h1 align="center">Mahmud // Titan</h1>
-<h3 align="center">A full-stack web developer from Bangladesh!</h3>
+<h3 align="center">I'm a full-stack web developer and software engineer from Bangladesh!</h3>
 
 -  I’m currently working on: **Network Analyzer [NetZer]** && **PhotoBytes Blog**
 
