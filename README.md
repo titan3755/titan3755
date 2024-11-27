@@ -3,7 +3,7 @@
 
 -  I’m currently working on: **Network Analyzer [NetZer]** && **PhotoBytes Blog**
 
--  I’m currently learning: **Java** && **Kotlin** && **C++/OpenGL**
+-  I’m currently learning: **Java** && **Kotlin/AndroidDev** && **C++/OpenGL**
 
 -  How to reach me: **info.photobytes@gmail.com**
 
