@@ -1,7 +1,7 @@
 <h1 align="center">Mahmud // Titan</h1>
 <h3 align="center">I'm a full-stack web developer and software engineer from Bangladesh!</h3>
 
--  I’m currently working on: **Network Analyzer [NetZer]** && **C++/OpenGL Sorting Algorithm Visualizer [VSort]**
+-  I’m currently working on: **Android dev** && **C++/OpenGL Sorting Algorithm Visualizer [VSort]**
 
 -  I’m currently learning: **Java** && **Kotlin/AndroidDev** && **C++/OpenGL**
 
