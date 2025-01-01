@@ -1,9 +1,9 @@
 <h1 align="center">Mahmud // Titan</h1>
 <h3 align="center">I'm a full-stack web developer and software engineer from Bangladesh!</h3>
 
--  I’m currently working on: **Android dev** && **C++/OpenGL Sorting Algorithm Visualizer [VSort]**
+-  I’m currently working on: **Android dev**
 
--  I’m currently learning: **Java** && **Kotlin/AndroidDev** && **C++/OpenGL**
+-  I’m currently learning: **Java** && **Kotlin/AndroidDev** && **C++/SDL**
 
 -  How to reach me: **info.photobytes@gmail.com**
 
